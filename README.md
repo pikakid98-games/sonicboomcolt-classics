@@ -1,24 +1,14 @@
-# Pikakid98 & SonicboomColt Classics
+# SonicboomColt Classics
 
-A compilation of Pikakid98 Classic Game Collection and SonicboomColt Classics included in Collection Of Collections
+A launcher for old SonicboomColt games uploaded with permission. included in Collection Of Collections. This particular version features mostly incomplete GameMaker Studio ports rather than the original GameMaker Legacy versions
 
 ### <b><u>Games</b></u>
 
-Cave Of The Dead
+Ninja
 \
-The Legend Of Zelda: Sword Of Destiny
+RobotKiller
 \
-Pikakid98 Studios Game Gallery
-\
-Cave Of The Dead 2: Dimensional Disaster
-\
-Ninja (By SonicboomColt)
-\
-RobotKiller (By SonicboomColt)
-\
-Minecraft 2D (By SonicboomColt)
-\
-Techron
+Minecraft 2D
 
 ### <b><u>Building requirements</b></u>
 
