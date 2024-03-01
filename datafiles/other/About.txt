@@ -1,0 +1,24 @@
+SonicboomColt Classics is a software designed to compile all of SonicboomColt's Pre-Cat Warfare games together in one place.. Some of which have never been released to the public
+
+Games developed by: SonicboomColt
+Games ported by: Pikakid98
+Software by: Pikakid98
+execute_shell Script by: Samuel Venable
+Music: Azazel - Can't Stop Coming
+Sprites: Yoyo Games, Pikakid98, Psychicpie
+
+
+
+Pikakid98 Studios:
+https://pikakid98studios.wordpress.com/
+
+Not-So Classic Games:
+https://notsoclassicgames.wordpress.com/
+
+
+
+Get the script here
+https://marketplace.yoyogames.com/assets/575/execute-shell
+
+Keep up to date with the latest builds here
+http://downloads-pikakid98.weebly.com/sonicboomcoltclassics
