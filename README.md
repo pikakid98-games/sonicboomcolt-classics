@@ -4,11 +4,11 @@ A launcher for old SonicboomColt games uploaded with permission. included in Col
 
 ### <b><u>Games</b></u>
 
-Ninja
+Ninja (GMS Port)
 \
-RobotKiller
+RobotKiller (GMS Port)
 \
-Minecraft 2D
+Minecraft 2D (GMS Port)
 
 ### <b><u>Building requirements</b></u>
 
