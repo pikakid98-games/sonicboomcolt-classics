@@ -1,6 +1,6 @@
 # SonicboomColt Classics
 
-A launcher for old SonicboomColt games uploaded with permission. included in Collection Of Collections. This particular version features mostly incomplete GameMaker Studio ports rather than the original GameMaker Legacy versions
+A launcher for old SonicboomColt games uploaded with permission. This particular version features mostly incomplete GameMaker Studio ports rather than the original GameMaker Legacy versions
 
 ### <b><u>Games</b></u>
 
